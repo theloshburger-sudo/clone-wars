@@ -1,5 +1,5 @@
 window.GAME_CONFIG = {
-  title: 'Clone Wars: Escape from Geonosis',
+  title: 'Escape from Geonosis',
   fix: 'custom',
   canvasWidth: 360,
   canvasHeight: 640,
